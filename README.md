@@ -1,36 +1,201 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌌 8-Bit World
 
-## Getting Started
+<p align="center">
+  <b>Retro • Cyberpunk • Immersive</b><br/>
+  <i>A pixel-driven digital experience built with modern web tech</i>
+</p>
 
-First, run the development server:
+---
+
+## 🎮 Live Experience
+
+🔗 https://8-bit-world.vercel.app
+
+---
+
+## ✨ Overview
+
+**8-Bit World** is a retro-futuristic web experience combining nostalgic 8-bit aesthetics with cutting-edge frontend technologies.
+Designed as a **vibe-first project**, it emphasizes visual storytelling, smooth animations, and immersive UI.
+
+---
+
+## 🧠 Core Idea
+
+> “Old-school pixels. New-school power.”
+
+* 🎮 Arcade-inspired visuals
+* 🌌 Animated cosmic background
+* ⚡ Fluid motion & transitions
+* 🧩 Minimal yet expressive UI
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Core
+
+* **Next.js 14 (App Router)**
+* **TypeScript**
+
+### 🎨 Styling
+
+* **Tailwind CSS v4**
+* Custom design system
+
+### 🎞️ Animation
+
+* **Framer Motion** (smooth UI transitions & effects)
+
+### 🔤 Typography
+
+* **Google Fonts**
+
+  * *Press Start 2P* (retro pixel style)
+  * *VT323* (terminal aesthetic)
+
+### 🌌 Visual Effects
+
+* **HTML5 Canvas** → animated star particles
+* **HTML5 Video** → immersive backgrounds
+
+### 🚀 Deployment
+
+* **Vercel**
+
+---
+
+## 🚀 Features
+
+* 🎨 Retro 8-bit inspired UI
+* 🌠 Dynamic starfield background (Canvas-based)
+* 🎥 Video-enhanced immersive sections
+* ⚡ High-performance Next.js architecture
+* 🎞️ Smooth animations powered by Framer Motion
+* 📱 Fully responsive design
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x600/0D1B2A/FFFFFF?text=8-Bit+World+Preview" />
+</p>
+
+---
+
+## 📁 Project Structure
+
+```bash
+8-bit-world/
+│
+├── app/                # Next.js App Router
+├── components/         # Reusable UI components
+├── public/             # Static assets
+├── styles/             # Global styles
+│
+├── package.json
+├── tailwind.config.ts
+└── README.md
+```
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/8-bit-world.git
+cd 8-bit-world
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit 👉 http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌍 Deployment
 
-## Learn More
+This project is deployed using **Vercel**
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+git push origin main
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> Every push = automatic deployment 🚀
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🎨 Design Philosophy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* **Vibe > Complexity**
+* **Motion creates emotion**
+* **Minimal UI, maximum immersion**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Inspired by:
+
+* Retro arcade systems
+* Cyberpunk interfaces
+* Terminal-style typography
+
+---
+
+## 🤝 Contributing
+
+Want to improve this project?
+
+1. Fork the repo
+2. Create a feature branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## 💭 Author
+
+**Revansh Singh**
+
+> Crafting aesthetic, vibe-driven digital experiences
+
+---
+
+## ⭐ Support
+
+If this project inspired you:
+
+* ⭐ Star the repo
+* 🔥 Share it
+* 💬 Drop feedback
+
+---
+
+## 🔮 Future Enhancements
+
+* 🎮 Interactive mini-games
+* 🎧 Background music & SFX
+* 🌐 Multi-page world system
+* 🧠 AI-generated environments
+
+---
+
+<p align="center">
+  <b>“Not just a website — a digital world.”</b>
+</p>
